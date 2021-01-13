@@ -1,6 +1,6 @@
 {
   "name": "react-ys-popup",
-  "version": "0.0.1-alpha",
+  "version": "0.0.1-release",
   "description": "Test;;for easy popup component creation and free design",
   "main": "react-ys-pupup/index.js",
   "module": "react-ys-pupup/index.js",
