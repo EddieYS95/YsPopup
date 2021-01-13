@@ -1,0 +1,10 @@
+{
+  "name": "YsPopup",
+  "version": "0.0.1-alpha",
+  "description": "for easy popup component creation and free design",
+  "main": "index.js",
+  "author": "Yunsang Jeong",
+  "license": "MIT",
+  "keywords": ["react", "component", "popup"],
+  "repository": "https://github.com/JeongYS/YsPopup"
+}
